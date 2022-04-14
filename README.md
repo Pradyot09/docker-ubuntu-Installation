@@ -1,4 +1,4 @@
-# dockerubuntu-install
+# docker-ubuntu-Installation
 Install Docker on Ubuntu using the script dockerubuntu.sh
 
 # Use command in the following order in ubuntu terminal:
